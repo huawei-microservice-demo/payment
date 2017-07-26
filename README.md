@@ -1,6 +1,6 @@
 payment app
 ---
-Payment application written in [Go] that check for authorisation of payment.
+Payment application written in [Go] that check for authorisation of payment.Source Code will be available soon.
 
 
 
