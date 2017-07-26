@@ -5,14 +5,13 @@ Payment application written in [Go] that check for authorisation of payment.Sour
 
 
 ## Step1: 
-git clone git@github.com:huawei-microservice-demo/payment.git
+git clone https://github.com/huawei-microservice-demo/payment.git
 
 ## Step2:
 cd payment
 
 ## Step4: Build the docker image
 docker build -t [docker-image-name:version-tag] .
-put the docker file in same folder and execute the above command.
 
 ## Step5: Tag the image with service stage
 docker tag [docker-image-name:version-tag]  registry.cn-north-1.hwclouds.com/hwcse/[docker-image-name:version-tag]
